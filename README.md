@@ -1,7 +1,7 @@
 ### Hi 👋, I am Aditya!!
 
 
-Here are some ideas to get you started:
+#Here are somethings about me...
 
 - 🔭 I’m currently working on IoT Botnet detection project
 - 🌱 I’m currently learning about the world of Cybersecurity and looking to explore ML and AI also.
