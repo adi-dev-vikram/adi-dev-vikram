@@ -10,4 +10,7 @@
 -  You can read my blog : https://www.adityavikramblogs.com/
 - 📫 How to reach me: adityadivikram1712@gmail.com
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adi-dev-vikram&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 
